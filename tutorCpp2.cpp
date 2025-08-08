@@ -8,6 +8,9 @@ int main()
 	setlocale(LC_ALL, "Russian");
 
 	std::cout << "привет калькулятор\n";
-	system("pause<0");
+
+
+
+	system("pause>0");
 	return 0;
 }
