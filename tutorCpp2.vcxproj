@@ -126,6 +126,8 @@
     <ClCompile Include="calculete.cpp" />
     <ClCompile Include="next.cpp" />
     <ClCompile Include="next2.cpp" />
+    <ClCompile Include="next3.cpp" />
+    <ClCompile Include="next4_array.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
